@@ -1,2 +1,1 @@
-# tv-shows999
-Website using Tv-Maze Api to search for information on 1000's of shows 
+tv-shows999 is a website that uses tv-maze's api https://www.tvmaze.com/api in order to search for information on shows in a netflix-esc design. Information includes rating, air date, genre, and show description. 
